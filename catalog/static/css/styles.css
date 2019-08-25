@@ -1,3 +1,12 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #d3caaf;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
 .sidebar-nav {
   margin-top: 20px;
   padding: 0;
